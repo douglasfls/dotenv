@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DotEnv.Example/DotEnv.Example.csproj" />
+  <Project Path="DotEnv.Tests/DotEnv.Tests.csproj" />
+  <Project Path="DotEnv/DotEnv.csproj" />
+</Solution>
